@@ -1,0 +1,7 @@
+Shipment_ID,Starting_Time,Ending_Time,Starting_Location,Ending_Location
+t_1,2.5,4,A,B
+t_2,9,11.5,A,C
+t_3,5.5,9,B,A
+t_4,8.5,10.5,B,C
+t_5,3.5,5,C,A
+t_6,6,8.5,C,B

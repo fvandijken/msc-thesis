@@ -1,0 +1,10 @@
+Shipment_ID,Starting_Time,Ending_Time,Starting_Location,Ending_Location
+BR.FC1.1,0.00,2.50,Fuite,FC1
+DC1.FC1.2,9.18,10.63,DC1,FC1
+FC1.DC1.1,8.88,9.28,FC1,DC1
+FC1.EM.1,2.50,4.00,FC1,Boni
+FC1.CBL.1,2.50,5.25,FC1,FC5
+FC1.SRN.1,5.13,6.13,FC1,DC1
+KW.FC1.1,10.50,12.75,Boni,FC1
+VE.FC1.1,10.00,12.00,Boni,FC1
+BR.FC2.1,0.00,2.00,Fuite,FC2

@@ -1,0 +1,6 @@
+shipment_id,earliest_start_time,latest_start_time,earliest_end_time,latest_end_time,start_location,end_location
+DC1.FC2.7,4.50,6.83,5.92,8.25,DC1,FC2
+FC1.CBL.1,2.50,2.50,5.25,5.25,FC1,FC5
+FC2.LID.1,4.42,7.58,7.92,11.08,FC2,FC2
+FC2.AMN.1,8.08,8.08,10.25,10.25,FC2,FC2
+FC1.GOU.3,10.75,10.83,13.75,13.83,FC1,FC1
